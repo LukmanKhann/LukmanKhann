@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **My-portfolio**
-
-- 👯 I’m looking to collaborate on **Full stack project**
+- 🔭 I’m currently working at **KPI - Tech Services Hyderabad**
 
 - 📫 How to reach me **khanlukman833@gmail.com**
 
